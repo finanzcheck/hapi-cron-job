@@ -1,5 +1,5 @@
 {
-  "name": "hapi-cron-job",
+  "name": "@finanzcheck/hapi-cron-job",
   "version": "3.0.0",
   "description": "Cron/Schedule jobs for Hapi framework",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Alex-Werner/hapi-cron-job.git"
+    "url": "git://github.com/finanzcheck/hapi-cron-job.git"
   },
   "keywords": [
     "cron",
