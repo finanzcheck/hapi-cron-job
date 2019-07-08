@@ -68,7 +68,6 @@ const parseExpression = str => {
         }, intervalInit)
     }
   }
-    console.log(splitedSchedule);
   return stringTest('at', splitText[0])
     ? handleAt(splitedSchedule, text)
     : {
